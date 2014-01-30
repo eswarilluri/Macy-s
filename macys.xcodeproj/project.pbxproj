@@ -21,6 +21,26 @@
 		6DDCEC241899CA820008450C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DDCEC061899CA820008450C /* UIKit.framework */; };
 		6DDCEC2C1899CA820008450C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC2A1899CA820008450C /* InfoPlist.strings */; };
 		6DDCEC2E1899CA820008450C /* macysTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DDCEC2D1899CA820008450C /* macysTests.m */; };
+		6DDCEC38189A05B60008450C /* 0129_HomeSale_HP_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC37189A05B60008450C /* 0129_HomeSale_HP_06.jpg */; };
+		6DDCEC39189A05B60008450C /* 0129_HomeSale_HP_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC37189A05B60008450C /* 0129_HomeSale_HP_06.jpg */; };
+		6DDCEC3C189A899F0008450C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3B189A899F0008450C /* DetailViewController.m */; };
+		6DDCEC3D189A899F0008450C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3B189A899F0008450C /* DetailViewController.m */; };
+		6DDCEC44189AA9680008450C /* icon_account.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3E189AA9680008450C /* icon_account.png */; };
+		6DDCEC45189AA9680008450C /* icon_account.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3E189AA9680008450C /* icon_account.png */; };
+		6DDCEC46189AA9690008450C /* icon_offers.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3F189AA9680008450C /* icon_offers.png */; };
+		6DDCEC47189AA9690008450C /* icon_offers.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC3F189AA9680008450C /* icon_offers.png */; };
+		6DDCEC48189AA9690008450C /* icon_bag.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC40189AA9680008450C /* icon_bag.png */; };
+		6DDCEC49189AA9690008450C /* icon_bag.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC40189AA9680008450C /* icon_bag.png */; };
+		6DDCEC4A189AA9690008450C /* icon_stores.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC41189AA9680008450C /* icon_stores.png */; };
+		6DDCEC4B189AA9690008450C /* icon_stores.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC41189AA9680008450C /* icon_stores.png */; };
+		6DDCEC4C189AA9690008450C /* icon_registry.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC42189AA9680008450C /* icon_registry.png */; };
+		6DDCEC4D189AA9690008450C /* icon_registry.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC42189AA9680008450C /* icon_registry.png */; };
+		6DDCEC4E189AA9690008450C /* icon_shop.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC43189AA9680008450C /* icon_shop.png */; };
+		6DDCEC4F189AA9690008450C /* icon_shop.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC43189AA9680008450C /* icon_shop.png */; };
+		6DDCEC51189AB6880008450C /* topNavigation.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC50189AB6880008450C /* topNavigation.png */; };
+		6DDCEC52189AB6880008450C /* topNavigation.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC50189AB6880008450C /* topNavigation.png */; };
+		6DDCEC54189AB94C0008450C /* icon_scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC53189AB94C0008450C /* icon_scan.png */; };
+		6DDCEC55189AB94C0008450C /* icon_scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DDCEC53189AB94C0008450C /* icon_scan.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +73,17 @@
 		6DDCEC291899CA820008450C /* macysTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "macysTests-Info.plist"; sourceTree = "<group>"; };
 		6DDCEC2B1899CA820008450C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6DDCEC2D1899CA820008450C /* macysTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = macysTests.m; sourceTree = "<group>"; };
+		6DDCEC37189A05B60008450C /* 0129_HomeSale_HP_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0129_HomeSale_HP_06.jpg; path = ../0129_HomeSale_HP_06.jpg; sourceTree = "<group>"; };
+		6DDCEC3A189A899F0008450C /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		6DDCEC3B189A899F0008450C /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		6DDCEC3E189AA9680008450C /* icon_account.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_account.png; sourceTree = "<group>"; };
+		6DDCEC3F189AA9680008450C /* icon_offers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_offers.png; sourceTree = "<group>"; };
+		6DDCEC40189AA9680008450C /* icon_bag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bag.png; sourceTree = "<group>"; };
+		6DDCEC41189AA9680008450C /* icon_stores.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_stores.png; sourceTree = "<group>"; };
+		6DDCEC42189AA9680008450C /* icon_registry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_registry.png; sourceTree = "<group>"; };
+		6DDCEC43189AA9680008450C /* icon_shop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_shop.png; sourceTree = "<group>"; };
+		6DDCEC50189AB6880008450C /* topNavigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = topNavigation.png; sourceTree = "<group>"; };
+		6DDCEC53189AB94C0008450C /* icon_scan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_scan.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +143,15 @@
 		6DDCEC081899CA820008450C /* macys */ = {
 			isa = PBXGroup;
 			children = (
+				6DDCEC53189AB94C0008450C /* icon_scan.png */,
+				6DDCEC50189AB6880008450C /* topNavigation.png */,
+				6DDCEC3E189AA9680008450C /* icon_account.png */,
+				6DDCEC3F189AA9680008450C /* icon_offers.png */,
+				6DDCEC40189AA9680008450C /* icon_bag.png */,
+				6DDCEC41189AA9680008450C /* icon_stores.png */,
+				6DDCEC42189AA9680008450C /* icon_registry.png */,
+				6DDCEC43189AA9680008450C /* icon_shop.png */,
+				6DDCEC37189A05B60008450C /* 0129_HomeSale_HP_06.jpg */,
 				6DDCEC111899CA820008450C /* AppDelegate.h */,
 				6DDCEC121899CA820008450C /* AppDelegate.m */,
 				6DDCEC141899CA820008450C /* Main.storyboard */,
@@ -119,6 +159,8 @@
 				6DDCEC181899CA820008450C /* ViewController.m */,
 				6DDCEC1A1899CA820008450C /* Images.xcassets */,
 				6DDCEC091899CA820008450C /* Supporting Files */,
+				6DDCEC3A189A899F0008450C /* DetailViewController.h */,
+				6DDCEC3B189A899F0008450C /* DetailViewController.m */,
 			);
 			path = macys;
 			sourceTree = "<group>";
@@ -229,8 +271,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				6DDCEC1B1899CA820008450C /* Images.xcassets in Resources */,
+				6DDCEC46189AA9690008450C /* icon_offers.png in Resources */,
+				6DDCEC4A189AA9690008450C /* icon_stores.png in Resources */,
+				6DDCEC51189AB6880008450C /* topNavigation.png in Resources */,
+				6DDCEC48189AA9690008450C /* icon_bag.png in Resources */,
+				6DDCEC4E189AA9690008450C /* icon_shop.png in Resources */,
 				6DDCEC0D1899CA820008450C /* InfoPlist.strings in Resources */,
+				6DDCEC4C189AA9690008450C /* icon_registry.png in Resources */,
 				6DDCEC161899CA820008450C /* Main.storyboard in Resources */,
+				6DDCEC54189AB94C0008450C /* icon_scan.png in Resources */,
+				6DDCEC38189A05B60008450C /* 0129_HomeSale_HP_06.jpg in Resources */,
+				6DDCEC44189AA9680008450C /* icon_account.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,7 +289,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DDCEC45189AA9680008450C /* icon_account.png in Resources */,
+				6DDCEC49189AA9690008450C /* icon_bag.png in Resources */,
+				6DDCEC4F189AA9690008450C /* icon_shop.png in Resources */,
+				6DDCEC55189AB94C0008450C /* icon_scan.png in Resources */,
+				6DDCEC4B189AA9690008450C /* icon_stores.png in Resources */,
 				6DDCEC2C1899CA820008450C /* InfoPlist.strings in Resources */,
+				6DDCEC39189A05B60008450C /* 0129_HomeSale_HP_06.jpg in Resources */,
+				6DDCEC4D189AA9690008450C /* icon_registry.png in Resources */,
+				6DDCEC47189AA9690008450C /* icon_offers.png in Resources */,
+				6DDCEC52189AB6880008450C /* topNavigation.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +312,7 @@
 				6DDCEC191899CA820008450C /* ViewController.m in Sources */,
 				6DDCEC131899CA820008450C /* AppDelegate.m in Sources */,
 				6DDCEC0F1899CA820008450C /* main.m in Sources */,
+				6DDCEC3C189A899F0008450C /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +321,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6DDCEC2E1899CA820008450C /* macysTests.m in Sources */,
+				6DDCEC3D189A899F0008450C /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -381,6 +443,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "macys/macys-Prefix.pch";
 				INFOPLIST_FILE = "macys/macys-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -394,6 +457,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "macys/macys-Prefix.pch";
 				INFOPLIST_FILE = "macys/macys-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

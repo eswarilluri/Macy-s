@@ -12,6 +12,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+    [[UINavigationBar appearance] setBackgroundImage:[UIImage imageNamed:@"topNavigation"] forBarMetrics:UIBarMetricsDefault];
+
     // Override point for customization after application launch.
     return YES;
 }
@@ -43,4 +46,8 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
++(id) viewControllerFromStoryboard:(NSString *)forId{
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+    return ([storyboard instantiateViewControllerWithIdentifier:forId]);
+}
 @end

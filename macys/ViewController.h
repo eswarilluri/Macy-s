@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UISearchBarDelegate>
+
+@property (strong, nonatomic) IBOutlet UIScrollView *mainScroll;
+@property (nonatomic) NSInteger totalTapCount;
+@property (strong, nonatomic) NSMutableDictionary *dictForEachButtonCount;
+- (IBAction)buttonTapped:(id)sender;
 
 @end
